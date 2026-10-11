@@ -1,0 +1,15 @@
+{
+  "name": "pitch-legends-global-online",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Ultimate Soccer online hub with profiles, squad builder, market, rankings, invites and browser-synchronized matches.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
